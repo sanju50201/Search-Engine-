@@ -8,7 +8,6 @@ QString Controller::workingPath;
 
 QRegExp Controller::replaceReg;
 QRegExp Controller::applyReg;
-
 Controller::Controller(QObject *parent) :
   QObject (parent) {
   this->locked = false;

@@ -52,7 +52,7 @@
         <string/>
        </property>
        <property name="textFormat">
-        <enum>Qt::LogText</enum>
+        <enum>Qt::PlainText</enum>
        </property>
       </widget>
      </item>
